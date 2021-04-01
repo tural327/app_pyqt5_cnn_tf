@@ -1,6 +1,6 @@
 # app_pyqt5_cnn_tf
 
-[Firslty let me introduce my app] (https://www.linkedin.com/posts/tural-kerimov-aa1a22103_tensorflow-artificialintelligence-machinelearning-activity-6783459820193251329-_bT_)
+# [Firslty let me introduce my app] (https://www.linkedin.com/posts/tural-kerimov-aa1a22103_tensorflow-artificialintelligence-machinelearning-activity-6783459820193251329-_bT_)
 
 ![](https://github.com/tural327/app_pyqt5_cnn_tf/blob/master/result.png)
 
