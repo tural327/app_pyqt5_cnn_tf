@@ -8,7 +8,7 @@ App is making predictions some plants
 
 For training I used dataset containing 12 type of plants and my model was:
 
-![](https://github.com/tural327/app_pyqt5_cnn_tf/blob/master/model_CNN.png)
+![https://www.linkedin.com/in/tural-kerimov-aa1a22103/](https://github.com/tural327/app_pyqt5_cnn_tf/blob/master/model_CNN.png)
 
 After traing I used PYQT5 GUI for showing my results
 
